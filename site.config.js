@@ -6,12 +6,10 @@ const CONFIG = {
     role: "backend developer",
     bio: "Dev-wannabe",
     email: "rappire@gmail.com",
-    linkedin: "",
-    github: "https://github.com/rappire",
-    instagram: "",
+    github: "rappire",
   },
-  projects: [
-  ],
+  // projects: [
+  // ],
   // blog setting (required)
   blog: {
     title: "rappire-blog",
