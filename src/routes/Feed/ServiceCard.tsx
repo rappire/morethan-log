@@ -11,7 +11,7 @@ const ServiceCard: React.FC = () => {
       <StyledTitle>
         <Emoji>🌟</Emoji> Service
       </StyledTitle>
-{/*       <StyledWrapper>
+      <StyledWrapper>
         {CONFIG.projects.map((project, idx) => (
           <a
             key={idx}
@@ -23,7 +23,7 @@ const ServiceCard: React.FC = () => {
             <div className="name">{project.name}</div>
           </a>
         ))}
-      </StyledWrapper> */}
+      </StyledWrapper>
     </>
   )
 }
